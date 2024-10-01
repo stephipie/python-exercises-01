@@ -26,9 +26,13 @@ Create your own git repository
     * 'git push -u origin main'
 ## Step 4
 - create a feature branch for every task and start coding, after you solved your exercise you can merge the feature branch with the main branch
+
     * 'git checkout -b feature/python-basics' you create a new brach and change into the branch with one command
+
 -create a new file
+
     * 'touch python-basic.py'
+    
 ### Task 1
 Write following code with python:
 
