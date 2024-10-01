@@ -25,13 +25,13 @@ Create your own git repository
     * 'git remote add origin git@github.com:yourname/yourfile'
     * 'git push -u origin main'
 ## Step 4
-- create a feature branch for every task and start coding, after you solved your exercise you can merge the feature branch with the main branch
+Create a feature branch for every task and start coding, after you solved your exercise you can merge the feature branch with the main branch.
 
 - create a new branch and change into the branch with one command
 
-    * 'git checkout -b feature/python-basics' you 
+    * 'git checkout -b feature/python-basics' 
 
--create a new file
+- create a new file
 
     * 'touch python-basic.py'
 
