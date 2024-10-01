@@ -31,12 +31,14 @@ Create your own git repository
     * 'touch python-basic.py'
 ### Task 1
 Write following code with python:
+
     * set a variable first_name with your first name
     * set a variable last_name with your last name
     * set a variable birht_year with your birth year as integer
     * set a varibale has_license with boolean (True/False)
 ### Task 2
 Create a python programm which is doing math operations
+
     * Define two integers a and b with the value 10 and 3
     * Sum of a and b
     * Difference of a and b
@@ -46,9 +48,11 @@ Create a python programm which is doing math operations
     * Value of a high b 
 ### Task 4
 Create a python programm which converts Celsius to Fahrenheit
+
     * the general formular is (F = 9/5 * C +32)   
 ### Task 5
 Create a python programm which adds the Tax to the net price
+
     * in my example it´s 19 % Tax 
 
 You will find a discription of the code I choosed within the code block.
